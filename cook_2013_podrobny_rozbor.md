@@ -10,6 +10,8 @@ Představme si článek o zařízení na zachytávání CO₂. V úvodu může p
 
 ## Nejdřív přesně: 97,1 % z čeho?
 
+Počty 3 896 a 78 jsou spočítané klasifikační záznamy. Rozdělení původních 7 970 položek na přibližně 40 nejistých a 7 930 bez stanoviska vychází z dodatečné kontroly 1 000 položek. Číslo 40 není seznam 40 samostatně označených řádků exportu.
+
 **97,1 % znamená 3 896 souhlasně zařazených abstraktů z 4 014 abstraktů zahrnutých do výpočtu stanovisek k lidské příčině oteplování.** Jednotkou počítání je abstrakt jedné práce. „Souhlas“ zde zahrnuje výslovné i implicitní vyjádření podle Cookových pravidel.
 
 ```text
@@ -118,7 +120,9 @@ Abstrakty hodnotili nejméně dva hodnotitelé; další postup řešil neshody. 
 
 **Analytický význam:** vyhledávání podle slov vybírá texty podle toho, jak se prezentují v databázi. Nemusí zachytit práci o příčinách oteplování, která tato slova nepoužívá, a naopak může zachytit technologickou studii, která jimi pouze zdůvodňuje svou motivaci. Takový výběr může být vhodný pro studium jazyka určité části literatury, ale vyžaduje opatrnost při zobecnění na celý obor nebo na soubor fyzikálních důkazů.
 
-### 2.2 Dvě nezávislé klasifikační osy
+### 2.2 Dvě odlišné klasifikační osy
+
+Téma článku a jeho zařazené stanovisko jsou dvě různé proměnné; jejich statistickou nezávislost nepředpokládáme.
 
 Datový soubor obsahuje **téma výzkumu** a **úroveň vyjádřeného souhlasu**. Tyto dvě osy odpovídají různým otázkám. Článek může být například o technologii snižování emisí a zároveň mít v úvodu větu o převládajícím lidském vlivu.
 
@@ -235,6 +239,8 @@ Pro otázku vlastních důkazů jsou omezení zásadní: zařazení neměří kv
 ## 5. Jak byl v tomto rozboru roztříděn soubor 64 prací
 
 ### 5.1 Pravidla vlastního třídění
+
+Označení A v rozborech Cooka a Lynase nemá shodný rozsah: zde zahrnuje také hemisférické a energetické analýzy. Počty 16 zde a 3 v rozboru Lynase proto nejsou přímo srovnatelnou časovou řadou.
 
 Zvolené skupiny popisují hlavní vlastní úkol práce patrný z abstraktu. Nejsou to Cookovy kategorie:
 
@@ -539,6 +545,8 @@ Je to vysvětlující zjednodušení; přesná aditivita sama může být předp
 Rovněž je nutné odlišovat **CO₂**, všechny skleníkové plyny a všechny antropogenní vlivy. Když analýza pracuje s CO₂ jako zástupným ukazatelem širšího působení, nelze výsledek bez dalšího označit za samostatně změřený čistý účinek CO₂. P7 tento problém výslovně uvádí.
 
 ### 7.4 Co modelová atribuce testuje
+
+Schematicky lze test psát `y = Xβ + ε`. Pozorované změny `y` porovnáváme s předpokládanými odezvami ve sloupcích `X`; `β` jsou odhadované velikosti a `ε` nevysvětlená složka. Podobné sloupce `X` mohou dát široké a závislé odhady `β`, i když součet dobře odpovídá pozorování. Je třeba rozlišitelných vzorců, modelu variability a kontroly reziduí. Nejde o tvrzení, že každá zde zmíněná studie používá právě tuto regresi.
 
 Námitka, že model předpokládá skleníkový účinek, může mít oprávněné jádro, pokud je modelový výsledek prezentován jako bezpředpokladové měření. Model již obsahuje fyzikální vztahy a parametry. Jeho numerická odezva na změnu koncentrace proto není nezávislým laboratorním objevem této fyziky.
 
@@ -1106,6 +1114,8 @@ Tento dokument umožňuje zodpovědět, co texty tematicky dělají a co v nich 
 Teprve takový postup může rozumně stanovit počet článků s konkrétně definovaným odhadem a jejich vztah ke společné hypotéze. Ani potom by prostý počet hlasů nenahradil posouzení metod a výsledků: jedna kvalitní nezávislá kontrola může být informačně důležitější než mnoho odvozených textů.
 
 ### 9.1 Proč nelze výběr 17 zobecnit na celou klimatologii
+
+Podíl `16/64` popisuje výskyt tematické skupiny A mezi abstrakty kategorie 1. Neodhaduje `P(A | všechny souhlasné)`, protože kategorie 1 nebyla náhodně vybrána ze všech souhlasných. Celkový poměr vlastních analýz příčin mezi souhlasnými a nesouhlasnými pracemi z různě pokrytých podskupin neurčíme.
 
 Těchto 17 bylo vybráno **uvnitř 64 abstraktů určitého typu vyjádření**. Není to systematický soupis všech atribučních studií v původních 11 944 položkách, natož ve veškeré odborné literatuře. Článek může vlastní atribuci dělat a přesto nemít v abstraktu výslovné slovo „hlavní“ nebo podobný závěr. Takový článek by mohl ležet mimo kategorii 1.
 

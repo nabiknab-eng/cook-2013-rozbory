@@ -2,6 +2,8 @@
 
 ## O co jde — vysvětlení pro laiky
 
+V hlavním výpočtu jsou 3 896 souhlasných a 78 nesouhlasných přímo zařazené abstrakty; přibližně 40 nejistých vychází z dodatečné kontroly vzorku 1 000 položek, nikoli ze seznamu 40 individuálně označených řádků.
+
 **Cookova studie zjišťuje, jak se odborné články vyjadřují k tomu, zda lidská činnost způsobuje oteplování.** Autoři vzali téměř dvanáct tisíc krátkých shrnutí vědeckých článků, kterým se říká abstrakty, a třídili v nich výslovný či nepřímý souhlas, nesouhlas a chybějící stanovisko. Část autorů také požádali, aby zařadili své vlastní celé články. Známých **97,1 %** vyjadřuje podíl souhlasně zařazených abstraktů mezi těmi, které vstoupily do výpočtu stanovisek. [Původní studie](https://homepage.univie.ac.at/brian.metscher/Cook13_GlobalWarmingSurvey_NoAbstract.pdf).
 
 Představme si článek o zařízení na zachytávání CO₂. V úvodu může přijmout lidskou příčinu oteplování, ale jeho vlastní výzkum měří účinnost zařízení. **Souhlasné vyjádření a vlastní zkoumání příčiny jsou dvě různé věci.** Cookovo procento popisuje vyjádření v textech; samo neříká, kolik článků příčinu samostatně ověřilo ani jak velkou část oteplení člověk způsobil.
@@ -65,7 +67,9 @@ U nesouhlasné skupiny tvoří dalších **44** položek mechanismy, citlivost �
 
 ## 5. Závěr a kontrolovatelnost
 
-**V dosud prověřených souborech bylo podle abstraktů tematicky identifikováno více vlastních globálních či hemisférických analýz příčin nebo přirozených složek pozorované změny mezi pracemi zařazenými Cookem jako nesouhlasné než mezi prověřenými souhlasnými: 23 oproti 16.** Hraniční výpočty a regionální analýzy jsou počítány zvlášť.
+**Celkový poměr vlastních analýz příčin mezi souhlasnými a nesouhlasnými pracemi dosud neznáme.** V úplně prověřené skupině 78 nesouhlasně zařazených abstraktů jsme tematicky nalezli 23 takových analýz; v prověřené souhlasné podskupině 64 z 3 896 jich bylo 16. Tyto podskupiny nemají stejné pokrytí.
+
+Hraniční výpočty a regionální analýzy jsou počítány zvlášť.
 
 **Toto je srovnání nalezených prací ve dvou nestejně pokrytých souborech, nikoli zjištění, že mezi všemi pracemi skutečně zkoumajícími příčinu převažuje nesouhlas.** Bylo prověřeno všech 78 nesouhlasných, ale pouze 64 z 3 896 souhlasných. Další vlastní analýzy mohou být mezi neprověřenými 3 832 souhlasnými i mezi pracemi bez stanoviska. K závěru o celkové převaze kterékoli strany je nutné stejně vymezeným postupem prověřit i tyto zbývající práce. Cookovo zařazení „nesouhlasné“ navíc samo neznamená, že vlastní výsledek každé z těchto analýz vyvrací většinový lidský vliv.
 
